@@ -74,6 +74,3 @@ A software written in Embedded C that drives a prototype of heart rate and tempe
 
 ***
 
-#LM35
-
-
